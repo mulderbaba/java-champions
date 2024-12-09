@@ -1,3 +1,15 @@
 # IntelliJ project files
 .idea
 *.iml
+*.ipr
+*.iws
+output/
+.DS_Store
+
+# VS Code project files
+.vscode/
+
+# Generated site content
+site/content/resources/mastodon.csv
+site/content/members.adoc
+site/content/stats.adoc
